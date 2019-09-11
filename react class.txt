@@ -1,0 +1,7 @@
+what is list?
+What is key?
+What is lifecycle method?
+what is life cycle hook?
+What is higher order componenet?
+What is props?
+Json Concept.
